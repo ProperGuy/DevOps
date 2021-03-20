@@ -1,0 +1,1 @@
+After cloning the repo you don't have to add an origin to your git, becose it's already there
